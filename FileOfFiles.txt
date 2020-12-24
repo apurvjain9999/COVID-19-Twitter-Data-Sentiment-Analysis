@@ -1,0 +1,32 @@
+******* COVID-19 Twitter Data Sentiment Analysis*******
+Author: Apurv Jain
+
+FileOfFiles
+
+1) NLP_Sentiment Analysis.ipynb: Jupyter Notebook for Analysis of Original Dataset, Pre-Processing of the Dataset, and applying simple models using TF-IDF
+
+2) NLP_CNN.ipynb: Jupyter Notebook for Simple CNN model applied on the Pre-processed Dataset
+
+3) NLP_CNN_GloVe.ipynb: Jupyter Notebook for CNN model with GloVe Embedding (of Twitter Data) applied on the Pre-processed Dataset
+
+4) NLP_CNN_W2V.ipynb: Jupyter Notebook for CNN model with Word2Vec Embedding applied on the Pre-processed Dataset
+
+5) word2vec_embedding_prep.ipynb: Jupyter Notebook for generating Word2Vec Embedding using Gensim
+
+6) Original Dataset: Folder consists of the Original Dataset files
+
+7) Pre-processed Dataset: Folder consists of the Pre-processed Dataset files
+
+8) GloVe Embedding/glove.twitter.27B: Folder consists of the GloVe Twitter Data Embedding
+
+9) Word2Vec Embedding: Folder consists of the Word2Vec Embedding generated using Gensim
+
+10) README.md : Please read this file for the details about the project and to know how to run the project
+
+11) Project_Report.txt: Project Report (docx version)
+
+12) Project_Report.pdf: Project Report (pdf version)
+
+13) Project_Presentation.pptx: Project Presentation
+
+14) License: Apache License
